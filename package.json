@@ -1,0 +1,20 @@
+{
+  "name": "@types/http-proxy",
+  "version": "0.0.1",
+  "description": "TypeScript definitions for http-proxy running Node.js v6.x",
+  "typings": "./index.d.ts",
+  "scripts": {},
+  "keywords": [
+    "REST",
+    "API"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wchang28/http-proxy-node-6-types.git"
+  },
+  "author": "Wen Chang",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^6.0.41"
+  }
+}

@@ -1,1 +1,1 @@
-"# http-proxy-node-6-types" 
+# http-proxy-node-6-types
